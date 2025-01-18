@@ -11,7 +11,7 @@ scaler = joblib.load('scaler.pkl')
 # Título de la aplicación
 st.title('Herramienta para predecir si sufre del corazón')
 st.subheader('Predicción de riesgo cardiovascular')
-st.markdown("**Autor:** JUANFERNANDO")
+st.markdown("**Autor:** JUANFERNANDO CALDERONNN")
 
 # Barra lateral con entradas para las variables
 st.sidebar.header("Parámetros de entrada")
